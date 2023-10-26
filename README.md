@@ -10,9 +10,6 @@ This Flutter project enables you to view PDF documents from either local storage
 
 3. Run the project on your Android or iOS emulator/device.
 
-4. Enter a PDF URL or a local path and tap the "Load PDF" button.
-
-5. Enjoy viewing and annotating PDF documents.
 
 ## Features
 
@@ -30,7 +27,7 @@ This project relies on the following dependencies:
 
 ## Notes
 
-Make sure to replace the placeholders with actual PDF URLs or local paths as per your requirements. This project is for demonstration purposes and can be customized and extended for your specific use case.
+Currently, Only Environmental Education Subjects can be viewed . This project is for demonstration purposes and can be customized and extended for youron specific use case.
 
 ## Author
 
